@@ -1,10 +1,10 @@
 * Fall 2021 - Lab Cipher
 
-* Last name:
+* Last name: Habib 
 
-* First name:
+* First name: Sidrat
 
-* GitHub username:
+* GitHub username: sidrathabib
 
 * Notes:
 
